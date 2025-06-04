@@ -1,0 +1,43 @@
+Password Strength Summary Table
+
+----------------------------------------------------------------------------------------------------------------
+Sr |    Password Example	         |    Composition Type	            |    Estimated Time to Crack       |   
+----------------------------------------------------------------------------------------------------------------  
+1  |	helloshreya	                 |    Lowercase only	            |        1 day                     |
+----------------------------------------------------------------------------------------------------------------
+2  |	HELLOSHREYA	                 |    Uppercase only	            |        1 day                     |
+----------------------------------------------------------------------------------------------------------------
+3  |	helloSHREya171	                 |    Mixed case + numbers	    |        9 million years           |
+----------------------------------------------------------------------------------------------------------------
+4  |	helloShre@12ya	                 |   Mixed case + numbers + symbols |        2 million years           |
+----------------------------------------------------------------------------------------------------------------
+5  | 	helloSHREyaXYZ174x1@2	         |    Long + mixed + symbols	    |        3 sextillion years        |
+---------------------------------------------------------------------------------------------------------------- 
+6  |	C_yber@Sec$ri*ty__Ta1k5!!PAS^    |  Complex, long, highly secure    |        4 undecillion years       |
+----------------------------------------------------------------------------------------------------------------
+7  |	Sh@re1#fipca%_+wyz	         |  Secure mix with special chars   |        7 quadrillion years       |
+----------------------------------------------------------------------------------------------------------------
+8  |	XYZ!!!shD@esh&mytewqbfls~\`mukh` | 	Max complexity and length   |        5 quattuordecillion years |
+----------------------------------------------------------------------------------------------------------------
+
+!!Final Report Summary!!
+
+Observation:
+Passwords using only lowercase or uppercase letters are extremely easy to crack (1 day).
+The inclusion of numbers and symbols increases password strength exponentially, with cracking time rising from days to millions or sextillions of years.
+
+Conclusion:
+A strong password should be at least 14–16 characters long and include:
+
+Uppercase + lowercase letters
+Numbers
+Special characters/symbols
+Unpredictable structure
+
+Best Practices Learned:
+
+Never reuse passwords across sites.
+Use a password manager to store complex passwords.
+Avoid personal names or dictionary words.
+Change passwords periodically and especially after security breaches.
+
